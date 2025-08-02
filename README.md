@@ -1,6 +1,6 @@
-# Avaliação Técnica QA - Cotefácil
+# Avaliação Técnica QA - ---------
 
-Este repositório contém os 3 testes que serão utilizados na avaliação técnica para a vaga de estagiário de QA da empresa Cotefácil.
+Este repositório contém os 3 testes que serão utilizados na avaliação técnica para a vaga de estagiário de QA da empresa ---------.
 
 ## :large_orange_diamond: Conteúdo
 
@@ -65,6 +65,5 @@ O resultado incorreto, seria tudo aquilo que não deveria ser visível para o us
 ## :large_orange_diamond: Contato
 Se tiver alguma dúvida. Por favor, entre em contato comigo :D
 - Email: junqueiragvl@gmail.com
-- Whatsapp: (19) 99726-2200
 
 #### Obrigado!
